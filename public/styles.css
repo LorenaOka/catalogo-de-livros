@@ -45,11 +45,11 @@ th {
 .pagination a {
   margin: 0 5px;
   text-decoration: none;
-  color: #333;
+  color: #000000;
   padding: 5px 20px;
   border: 2px solid #ddd;
   border-radius: 3px;
-  background-color: #fcf7f7;
+  background-color: #c0bcbc;
 
 
 }
@@ -60,7 +60,13 @@ th {
 
 .pagination a.active {
   font-weight: bold;
-  background-color: #333;
+  background-color: #363535;
   color: white;
+  pointer-events: none;
+}
+
+.pagination .disabled {
+  color: #888;
+  background-color: #f3f3f3fd;
   pointer-events: none;
 }

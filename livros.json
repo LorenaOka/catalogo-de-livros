@@ -131623,4 +131623,26 @@
   "paginas": 158,
   "ano": 2003,
   "valor": 76.62
+},
+{
+  "_id": {
+    "$oid": "66623a4e9ffd8e25e33cdd3f"
+  },
+  "titulo": "Vivienne Westwood",
+  "autor": "Vivienne Westwood",
+  "isbn": "9788569474081",
+  "paginas": 496,
+  "ano": 2016,
+  "valor": 40.82
+},
+{
+  "_id": {
+    "$oid": "66623a4c9ffd8e25e33cd4d2"
+  },
+  "titulo": "simples verdades",
+  "autor": "Kent Nerburn",
+  "isbn": "9788575423202",
+  "paginas": 128,
+  "ano": 2007,
+  "valor": 90.6
 }]
